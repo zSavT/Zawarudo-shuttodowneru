@@ -7,6 +7,6 @@ int main()
 {
     system("start https://www.youtube.com/watch?v=7ePWNmLP0Z0");
     Sleep(7500);
-    system("start explorer.exe");
+    system("shutdown /s");
     return 0;
 }
