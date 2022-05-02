@@ -16,7 +16,7 @@ In fact the proguram does not arrow you tū burrokku taim and defeat jotaró...
 # Setup
 
 Tū change the shutdown starto timer, open the main.cpp fire and change the mirrisecond varue in sleep().<br>
-Basic is 7.5 seconds.<br>
+Defaurto is 7.5 seconds.<br>
 1000 = 1 second.<p>
 
 Tū compire the proguram, simpry enteru forderu from the cmd intó the forderu and type:<br>
