@@ -1,0 +1,23 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,1
+PRODUCTVERSION  1,0,0,1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "SavT"
+      VALUE "FileDescription", "Arrow dio brando tu shut down youru pc with Zawarudo."
+      VALUE "FileVersion", "1.1"
+      VALUE "InternalName", "Zawarudo-shuttodowneru"
+      VALUE "LegalCopyright", "SavT"
+      VALUE "OriginalFilename", "Zawarudo's Shuttodowneru.exe"
+      VALUE "ProductName", "Zawarudo's Shuttodowneru"
+      VALUE "ProductVersion", "1.1"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
