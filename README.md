@@ -10,7 +10,7 @@ Characteru based on the manga ジョジョの奇妙な冒険 Jojo no kimyō na b
 
 ## Note
 
-In fact the proguram does not arrow you tū burrokku taim and defeat jotaró...
+In fact the proguram does not arrow you tū burrokku taim and defeat Jōtarō...
 
 
 # Setup
@@ -25,3 +25,14 @@ _g++ --static -o "Zawarudo's Shuttodowneru" main.cpp info.res icon.res_
   
 You mast have instarred on youru mingw pc.
   
+# Mingw
+1. Instarru [chocolatey](https://chocolatey.org/install)
+2. From the command rine, run:
+```bash
+ choco install mingw -y
+```
+3. Douburre-chekku that everything works by running:
+```bash
+ refreshenv
+ gcc --version
+```
